@@ -12,7 +12,7 @@
 
 <h4> Инструменты/Фреймворки </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,bootstrap,scss,tailwind,npm,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,bootstrap,scss,tailwind,npm,react,vite)](https://skillicons.dev)
 
 <!-- Ссылка на все иконки: https://github.com/tandpfun/skill-icons#readme -->
 </details>
