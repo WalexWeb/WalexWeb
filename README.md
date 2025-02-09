@@ -6,11 +6,11 @@
 
 <details>
 <summary>:books: Основной стек </summary>
-<h4> Языки </h4>
+<h4> Языки: </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,cs,net,cpp,html,css)](https://skillicons.dev)
 
-<h4> Инструменты/Фреймворки </h4>
+<h4> Инструменты/Фреймворки: </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,bootstrap,scss,tailwind,npm,react,vite)](https://skillicons.dev)
 
@@ -29,9 +29,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <details> 
 <summary>:star2: Статистика на GitHub </summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walexweb&theme=github_dark&layout=compact&bg_color=00000000&hide_border=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=walexweb&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walexweb&theme=github_dark&layout=compact&bg_color=00000000&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=walexweb&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true)
 
 </details>
 
