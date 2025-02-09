@@ -14,7 +14,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,bootstrap,scss,tailwind,npm,react,vite)](https://skillicons.dev)
 
-<!-- Ссылка на все иконки: https://github.com/tandpfun/skill-icons#readme -->
+<h4>Библиотеки:</h4>
+
+<div>
+<img src='https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white'/>
+<img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
+<img src='https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white'/>
+</div>
+
+<!-- Ссылка на все иконки: https://github.com/tandpfun/skill-icons#readme
+https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 </details>
 
 <details> 
