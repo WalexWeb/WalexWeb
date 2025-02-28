@@ -6,11 +6,11 @@
 <summary>:books: Основной стек </summary>
 <h4> Языки: </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
 <h4> Инструменты/Фреймворки: </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,bootstrap,scss,tailwind,npm,react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,bootstrap,scss,tailwind,npm,react,vite,vitest)](https://skillicons.dev)
 
 <h4>Библиотеки:</h4>
 
