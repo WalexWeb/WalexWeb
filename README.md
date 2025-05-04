@@ -10,7 +10,7 @@
 
 <h4> Инструменты/Фреймворки: </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,scss,tailwind,npm,react,webpack,vite,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,scss,tailwind,npm,pnpm,bun,react,webpack,vite,vitest)](https://skillicons.dev)
 
 <h4>Библиотеки:</h4>
 
@@ -18,16 +18,15 @@
 <img src='https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white'/>
 <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
 <img src='https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white'/>
+<img src='https://img.shields.io/badge/React hook form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white'/>
 <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
 <img src='https://img.shields.io/badge/Zustand-FBA433?style=for-the-badge&logoColor=white'/>
-<img src='https://img.shields.io/badge/Jotai-fff?style=for-the-badge'/>
+<img src='https://img.shields.io/badge/Jotai-fff?style=for-the-badge&logo=ghostery&logoColor=black'/>
 <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white'/>
 <img src='https://img.shields.io/badge/Framer motion-black?style=for-the-badge&logo=framer&logoColor=white'/>
+<img src='https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white'/>
 <img src='https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white'/>
 </div>
-
-<!-- Ссылка на все иконки: https://github.com/tandpfun/skill-icons#readme
-https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 </details>
 
 <details> 
