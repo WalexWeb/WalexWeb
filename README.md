@@ -32,6 +32,6 @@
 <details> 
 <summary>:star2: Статистика на GitHub </summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walexweb&theme=github_dark&layout=compact&bg_color=20000000&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=walexweb&theme=github_dark&show_icons=true&bg_color=20000000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walexweb&theme=github_dark&layout=compact&bg_color=20000000&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=walexweb&theme=github_dark&show_icons=true&bg_color=20000000&hide_border=true&hide=issues)
 
 </details>
