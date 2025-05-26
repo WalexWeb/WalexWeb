@@ -35,3 +35,21 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walexweb&theme=github_dark&layout=compact&bg_color=20000000&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=walexweb&theme=github_dark&show_icons=true&bg_color=20000000&hide_border=true&hide=issues)
 
 </details>
+
+<details>
+<summary>:rocket: Лучшие проекты</summary>
+
+<table>
+      <a href="https://github.com/WalexWeb/crypto_dashboard-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=crypto_dashboard-client&theme=github_dark&hide_border=true&bg_color=00000000" />
+      </a>
+      <a href="https://github.com/WalexWeb/olymp_schools-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=olymp_schools-client&theme=github_dark&hide_border=true&bg_color=00000000" />
+      </a>
+      <a href="https://github.com/WalexWeb/own_game-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=own_game-client&theme=github_dark&hide_border=true&bg_color=00000000" />
+      </a>
+      <a href="https://github.com/WalexWeb/react-quiz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=react-quiz&theme=github_dark&hide_border=true&bg_color=00000000" />
+      </a>
+</details>
