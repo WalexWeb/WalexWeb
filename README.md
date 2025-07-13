@@ -10,7 +10,13 @@
 
 <h4> Инструменты/Фреймворки: </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,scss,tailwind,npm,pnpm,bun,react,webpack,vite,vitest)](https://skillicons.dev)
+<h4>Фронтенд:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=scss,tailwind,npm,pnpm,bun,react,next,webpack,vite,vitest)](https://skillicons.dev)
+
+<h4>Бекенд:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,prisma,postgres,nodejs,express)](https://skillicons.dev)
 
 <h4>Библиотеки:</h4>
 
@@ -26,6 +32,8 @@
 <img src='https://img.shields.io/badge/Framer motion-black?style=for-the-badge&logo=framer&logoColor=white'/>
 <img src='https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white'/>
 <img src='https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white'/>
+<img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 </div>
 </details>
 
@@ -40,6 +48,9 @@
 <summary>:rocket: Лучшие проекты</summary>
 
 <table>
+      <a href="https://github.com/WalexWeb/sports_shop-nextjs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=sports_shop-nextjs&theme=github_dark&hide_border=true&bg_color=00000000" />
+      </a>
       <a href="https://github.com/WalexWeb/crypto_dashboard-client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=crypto_dashboard-client&theme=github_dark&hide_border=true&bg_color=00000000" />
       </a>
@@ -48,8 +59,5 @@
       </a>
       <a href="https://github.com/WalexWeb/own_game-client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=own_game-client&theme=github_dark&hide_border=true&bg_color=00000000" />
-      </a>
-      <a href="https://github.com/WalexWeb/react-quiz">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=react-quiz&theme=github_dark&hide_border=true&bg_color=00000000" />
       </a>
 </details>
