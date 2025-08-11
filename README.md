@@ -16,7 +16,7 @@
 
 <h4>Бекенд:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,prisma,postgres,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,prisma,mongo,postgres,nodejs,express)](https://skillicons.dev)
 
 <h4>Библиотеки:</h4>
 
@@ -31,6 +31,7 @@
 <img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white'/>
 <img src='https://img.shields.io/badge/Framer motion-black?style=for-the-badge&logo=framer&logoColor=white'/>
 <img src='https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white'/>
+<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 <img src='https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white'/>
 <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
@@ -49,15 +50,15 @@
 
 <table>
       <a href="https://github.com/WalexWeb/sports_shop-nextjs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=sports_shop-nextjs&theme=github_dark&hide_border=true&bg_color=00000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=sports_shop-nextjs&theme=github_dark&hide_border=true&bg_color=10000000" />
       </a>
-      <a href="https://github.com/WalexWeb/crypto_dashboard-client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=crypto_dashboard-client&theme=github_dark&hide_border=true&bg_color=00000000" />
-      </a>
-      <a href="https://github.com/WalexWeb/olymp_schools-client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=olymp_schools-client&theme=github_dark&hide_border=true&bg_color=00000000" />
+      <a href="https://github.com/WalexWeb/LinguaFlow-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=LinguaFlow-client&theme=github_dark&hide_border=true&bg_color=10000000" />
       </a>
       <a href="https://github.com/WalexWeb/own_game-client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=own_game-client&theme=github_dark&hide_border=true&bg_color=00000000" />
+      </a>
+      <a href="https://github.com/WalexWeb/olymp_schools-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalexWeb&repo=olymp_schools-client&theme=github_dark&hide_border=true&bg_color=00000000" />
       </a>
 </details>
